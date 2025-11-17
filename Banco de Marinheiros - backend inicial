@@ -1,4 +1,4 @@
-cd C:\Users\elian\Downloads\banco_de_marinheiros_next_starter
+C:\Users\elian\OneDrive\Documentos\Banco de Marinheiro\banco-de-marinheiros-repositorio
 git init
 git add .
 git commit -m "Banco de Marinheiros - backend inicial"
